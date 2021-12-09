@@ -1,0 +1,47 @@
+[
+    {
+        "nome": "Wagner",
+        "sobrenome": "Karoleski",
+        "empresa": "Multimak Usinagem LTDA",
+        "endereco": "Ignez Masotti",
+        "numero": "1492",
+        "pais": "Brasil",
+        "cidade": "Caxias do Sul",
+        "estado": "Rio Grande do Sul",
+        "cep": "95045892",
+        "telefone": "54982447903",
+        "email": "teste@teste.ecab.com"
+    },
+    {
+        "nome": "Fernanda",
+        "sobrenome": "Petry",
+        "empresa": "DCA",
+        "endereco": "Ignez Masotti",
+        "numero": "1111",
+        "pais": "Brasil",
+        "cidade": "Pelotas",
+        "estado": "Rio de Janeiro",
+        "cep": "934242344",
+        "telefone": "54983453903",
+        "email": "teste@teste.com"
+    },
+    {
+        "nome": "Alvin",
+        "sobrenome": "Suricato",
+        "empresa": "Cachorrândia",
+        "endereco": "Casinha",
+        "numero": "1492",
+        "pais": "Brasil",
+        "cidade": "Aurambaré",
+        "estado": "Amazonas",
+        "cep": "95045892",
+        "telefone": "54982347903",
+        "email": "teste@late.coracao.com"
+    }
+
+
+
+
+
+
+]
